@@ -5,7 +5,7 @@ on:
       - master
       
 env:
-  name: "FL Studio 20.7.2.1863"
+  name: "Fruity Loops Studio 20.7.2.1863"
   comment: "Image Line Fruity Loops Studio 20.7.2.1863"
   url: "http://demodownload.image-line.com/flstudio/flstudio_win_20.7.2.1863.exe"
   file_name: "flstudio_win_20.7.2.1863.exe"
